@@ -2,7 +2,7 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2024-01-29 21:57:56
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2024-01-29 22:08:17
+ * @LastEditTime: 2024-03-13 00:03:59
  * @FilePath: /FlutterFamily/README.md
  * @Description: 
  * 
@@ -27,6 +27,12 @@ hey~，我是科科，目前就职于国内一家互联网公司，你们可以�
 - `好友`，可以添加作者的微信好友
 
 ## dart
+### 基础语法
+- hello world
+### 并发
+
+### 项目经验
+
 ## flutter
 ## 参考资料
 
