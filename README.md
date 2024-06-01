@@ -2,7 +2,7 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2024-01-29 21:57:56
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2024-03-13 00:03:59
+ * @LastEditTime: 2024-06-01 15:29:47
  * @FilePath: /FlutterFamily/README.md
  * @Description: 
  * 
@@ -22,13 +22,14 @@ hey~，我是科科，目前就职于国内一家互联网公司，你们可以�
 </p>
 
 添加微信公众号：<a href="#wechat.png">科科人神</a>，回复：
-- `面试题`，获取经典面试大全(巨全，强推，不仅有面试题还有大厂的算法和系统设计原题以及面试技巧等等内容)
+- `面试题`，获取经典面试大全 (巨全，强推，不仅有面试题还有大厂的算法和系统设计原题以及面试技巧等等内容)
 
 - `好友`，可以添加作者的微信好友
 
 ## dart
 ### 基础语法
-- hello world
+- [hello world](/dart/hello-world)
+- [变量](/dart/变量)
 ### 并发
 
 ### 项目经验
